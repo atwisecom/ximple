@@ -37,6 +37,17 @@
   本项目支持快速扩展开发，可私有化部署
 - APP：
   提供ios和安卓APP
+  
+## Screenshots：
+[![任务](https://github.com/atwisecom/ximple/blob/master/screenshots/tasks.jpg)](https://github.com/atwisecom/ximple/blob/master/screenshots/tasks.jpg) 
+[![碰撞图](https://github.com/atwisecom/ximple/blob/master/screenshots/clash.jpg)](https://github.com/atwisecom/ximple/blob/master/screenshots/clash.jpg) 
+[![甘特图](https://github.com/atwisecom/ximple/blob/master/screenshots/schedule.jpg)](https://github.com/atwisecom/ximple/blob/master/screenshots/schedule.jpg) 
+[![数据接入](https://github.com/atwisecom/ximple/blob/master/screenshots/datadocking.jpg)](https://github.com/atwisecom/ximple/blob/master/screenshots/datadocking.jpg) 
+[![双视图](https://github.com/atwisecom/ximple/blob/master/screenshots/dualview.jpg)](https://github.com/atwisecom/ximple/blob/master/screenshots/dualview.jpg) 
+[![场景-发光线](https://github.com/atwisecom/ximple/blob/master/screenshots/scene-line.jpg)](https://github.com/atwisecom/ximple/blob/master/screenshots/scene-line.jpg) 
+[![场景-BIM](https://github.com/atwisecom/ximple/blob/master/screenshots/scene-bim.jpg)](https://github.com/atwisecom/ximple/blob/master/screenshots/scene-bim.jpg) 
+[![场景-模拟](https://github.com/atwisecom/ximple/blob/master/screenshots/scene-mig.jpg)](https://github.com/atwisecom/ximple/blob/master/screenshots/scene-mig.jpg) 
+
 
 [Click to visit Homepage / 点击访问主页](http://ximple.com.cn)
 
