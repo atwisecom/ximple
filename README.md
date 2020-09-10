@@ -51,3 +51,7 @@
 
 [Click to visit Homepage / 点击访问主页](http://ximple.com.cn)
 
+## 关于作者：
+- 数据可视化和信息系统可视化（系统逆向分析）领域解决方案和产品供应商
+- BIM全过程服务相关服务、产品和平台供应商
+- 联系方式：微信 1990043785 邮件 zhou@atwise.com
